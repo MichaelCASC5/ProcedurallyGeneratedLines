@@ -1,0 +1,1 @@
+In Driver.java, on lines 47 and 48, you can specify the seeds of the generated line. I even left a list of interesting seeds in the comment above.
